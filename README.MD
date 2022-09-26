@@ -13,5 +13,5 @@
 ## Книги:
 * [Изучаем Python. 5-е изд. Том 1. Марк Лутц - читать онлайн](https://codernet.ru/books/python/izuchaem_python_5-e_izd_tom_1_mark_lutc/)
 * [Python. Подробный справочник. Дэвид Бизли читать онлайн](https://codernet.ru/books/python/python_podrobnyj_spravochnik_devid_bizli/)
-* [Укус Питона” – “A Byte of Python” скачать в формате epub](www.upload.ee/download/14533138/2eca12ecce2f1bb890ff/AByteofPythonRussian-2.02.epub)
+* [Укус Питона” – “A Byte of Python” скачать в формате epub](https://www.upload.ee/download/14533232/616b6bd8b6951bb897a5/AByteofPythonRussian-2.02.epub)
 * [Грокаем алгоритмы 2017 Адитья Бхаргава - читать онлайн](https://codernet.ru/books/software_development/grokaem_algoritmy/)
