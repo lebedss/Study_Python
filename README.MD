@@ -9,8 +9,8 @@
 * [Алгоритмы и структуры данных на Python 3 -> Материалы курса и практические задания](https://github.com/mipt-cs/course-site-python3/wiki)
 * [Проект Эйлер - некоммерческая площадка с набором задач по математике и программированию](https://euler.jakumo.org/problems.html)
 * [Проект "Школа программиста" - олимпиадные задачи по программированию](https://acmp.ru/index.asp?main=tasks&str=%20&page=1&id_type=0)
-* [Codewars – образовательное сообщество - на платформе разработчики программного обеспечения обучаются программированию задач, известных как ката](https://www.codewars.com/)
-## Книги:
+* [Codewars – образовательное сообщество где на платформе разработчики программного обеспечения обучаются программированию с помощью решения задач](https://www.codewars.com/)
+## Рекомендованные книги:
 * [Изучаем Python. 5-е изд. Том 1. Марк Лутц - читать онлайн](https://codernet.ru/books/python/izuchaem_python_5-e_izd_tom_1_mark_lutc/)
 * [Python. Подробный справочник. Дэвид Бизли читать онлайн](https://codernet.ru/books/python/python_podrobnyj_spravochnik_devid_bizli/)
 * [Укус Питона” – “A Byte of Python” скачать в формате epub](https://www.upload.ee/download/14533232/616b6bd8b6951bb897a5/AByteofPythonRussian-2.02.epub)
