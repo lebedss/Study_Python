@@ -7,3 +7,11 @@
 * [Руководство по языку программирования Python](https://metanit.com/python/tutorial/)
 * [Алгоритмы и структуры данных на Python 3 -> Лекции на Youtube](https://www.youtube.com/playlist?list=PLRDzFCPr95fK7tr47883DFUbm4GeOjjc0)
 * [Алгоритмы и структуры данных на Python 3 -> Материалы курса и практические задания](https://github.com/mipt-cs/course-site-python3/wiki)
+* [Проект Эйлер - некоммерческая площадка с набором задач по математике и программированию](https://euler.jakumo.org/problems.html)
+* [Проект "Школа программиста" - олимпиадные задачи по программированию](https://acmp.ru/index.asp?main=tasks&str=%20&page=1&id_type=0)
+* [Codewars – образовательное сообщество - на платформе разработчики программного обеспечения обучаются программированию задач, известных как ката](https://www.codewars.com/)
+## Книги:
+[Изучаем Python. 5-е изд. Том 1. Марк Лутц - читать онлайн](https://codernet.ru/books/python/izuchaem_python_5-e_izd_tom_1_mark_lutc/)
+[Python. Подробный справочник. Дэвид Бизли читать онлайн](https://codernet.ru/books/python/python_podrobnyj_spravochnik_devid_bizli/)
+[Укус Питона” – “A Byte of Python” скачать в epub](www.upload.ee/download/14533138/2eca12ecce2f1bb890ff/AByteofPythonRussian-2.02.epub)
+[Грокаем алгоритмы 2017 Адитья Бхаргава - читать онлайн](https://codernet.ru/books/software_development/grokaem_algoritmy/)
