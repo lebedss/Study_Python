@@ -12,9 +12,8 @@ from random import sample
 
 def list_rand_nums(count: int):
     if count < 0:
-        print("Negative value of the number of numbers!")
+        print("Количество произвольных чисел в списке не может быть отрицательным!")
         return []
-
     list_nums = sample(range(1, count * 2), count)
     return list_nums
 
@@ -26,6 +25,6 @@ def sum_odd_pos(list_nums: list):
     return sum_nums
 
 
-all_list = list_rand_nums(int(input("Number of numbers: ")))
-print(all_list)
-print(sum_odd_pos(all_list))
+all_list = list_rand_nums(int(input("Введите количество произвольных чисел в списке: ")))
+print(f'Наш список, состоящий из произвольных чисел: {all_list}')
+print(f'Сумма элементов списка,cтоящих на нечётных позициях - {sum_odd_pos(all_list)}')

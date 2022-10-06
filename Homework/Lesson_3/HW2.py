@@ -11,7 +11,7 @@ from random import sample
 
 def list_rand_nums(count):
     if count < 0:
-        print("Negative value of the number of numbers!")
+        print("Количество произвольных чисел в списке не может быть отрицательным")
         return []
 
     list_nums = sample(range(1, count * 2), count)
@@ -20,16 +20,15 @@ def list_rand_nums(count):
 
 def prod_pairs(list_nums: list):
     res_list = []
-    len_list = len(list_nums)
 
-    for k in range(len_list // 2):
-        res_list.append(list_nums[k] * list_nums[len_list - k - 1])
+    for k in range(len(list_nums) // 2):
+        res_list.append(list_nums[k] * list_nums[len(list_nums) - k - 1])
 
-    if len_list % 2:
-        res_list.append(list_nums[len_list // 2])
+    if len(list_nums) % 2:
+        res_list.append(list_nums[len(list_nums) // 2])
     return res_list
 
 
-all_list = list_rand_nums(int(input("Number of numbers: ")))
-print(all_list)
-print(prod_pairs(all_list))
+all_list = list_rand_nums(int(input("Введите количество произвольных чисел в списке: ")))
+print(f'Наш список, состоящий из произвольных чисел: {all_list}')
+print(f'Произведение пар чисел списка: {prod_pairs(all_list)}')

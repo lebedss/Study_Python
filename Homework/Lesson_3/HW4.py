@@ -12,7 +12,7 @@ from random import uniform
 def list_rand_nums(count: int):
     list_nums = []
     if count <= 0:
-        print("Negative value of the number of numbers!")
+        print("Количество произвольных чисел в списке не может быть отрицательным!")
         return [0.0]
 
     for i in range(count):
@@ -31,10 +31,19 @@ def dif_max_min(list_nums: list):
             num_min = num
 
     result = round(num_max - num_min, 2)
-    print(f"Min: {num_min}, Max: {num_max}. Difference: {result}")
+    print(f"Минимальная дробная часть: {num_min}, Максимальная дробная часть: {num_max}. Разница: {result}")
     return result
 
 
-all_list = list_rand_nums(int(input("Number of numbers: ")))
-print(all_list)
-print(dif_max_min(all_list))
+all_list = list_rand_nums(int(input("Введите количество произвольных чисел в списке: ")))
+print(f'Наш список,состоящий из произвольных вещественных чисел: {all_list}')
+print(f'Разница между максимальным и минимальным значением дробной части элементов - {dif_max_min(all_list)}')
+
+# Сгенерировать число с плавающей точкой можно с помощью функции uniform(a, b).
+# При этом полученное число будет в диапазоне [a, b) или [a, b]
+# (a входит в диапазон, а вхождение b зависит от округления).
+# Пример:
+# random_number = uniform(7.3, 10.5)
+# print(random_number)
+# Вывод в консоль:
+# > 10.320165816501492
