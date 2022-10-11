@@ -1,6 +1,6 @@
 # Знакомство с языком Python в рамках курса "Разработчик" от GeekBrains
 ## Полезные ссылки:
-* [Программирование на Python - онлайн курс,Уровень: Начальный](https://smartiqa.ru/courses/python)
+* [Программирование на Python - бесплатный онлайн курс,уровень:нчальный](https://smartiqa.ru/courses/python)
 * ["Поколение Python": курс для начинающих (бесплатный)](https://stepik.org/course/58852/syllabus)
 * ["Поколение Python": курс для продвинутых (бесплатный)](https://stepik.org/course/68343/promo)
 * ["Поколение Python": курс для профессионалов (платный)](https://stepik.org/course/82541/promo)
