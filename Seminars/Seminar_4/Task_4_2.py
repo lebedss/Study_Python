@@ -18,7 +18,6 @@ def roots_equ(a, b, c):
             my_f.write("There are no roots.\n")
 
 
-# 1 2 -3, 5 6 -7, 8 9 -10
 for i in range(3):
     roots_equ(int(input("Enter the coefficient 'a': ")), int(input("Enter the coefficient 'b': ")),
               int(input("Enter the coefficient 'c': ")))
